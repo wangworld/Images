@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="音视频" title="音视频">
+      <outline text="一刻talks" title="一刻talks" type="rss" xmlUrl="https://getpodcast.xyz/data/ximalaya/5809455.xml" htmlUrl="https://www.ximalaya.com/album/5809455/"/>
+      <outline text="津津乐道" title="津津乐道" type="rss" xmlUrl="http://feeds.jjldbk.com/all.xml" htmlUrl="https://jinjinledao.org/"/>
+      <outline text="36氪·8点1氪" title="36氪·8点1氪" type="rss" xmlUrl="https://getpodcast.xyz/data/ximalaya/8125936.xml" htmlUrl="https://www.ximalaya.com/album/8125936/"/>
+      <outline text="行动派精选文章" title="行动派精选文章" type="rss" xmlUrl="https://rss.zwant.win/ximalaya/album/4903380/" htmlUrl="http://www.ximalaya.com/jiaoyu/4903380/"/>
+      <outline text="机核网 GADIO 游戏广播" title="机核网 GADIO 游戏广播" type="rss" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" htmlUrl="http://feed.tangsuanradio.com/gadio.xml"/>
+      <outline text="一席" title="一席" type="rss" xmlUrl="http://rss.kaolafm.com/MZ_RSS/rss/1100000046138/album.xml" htmlUrl="http://www.kaolafm.com/"/>
+      <outline text="雪球" title="雪球" type="rss" xmlUrl="http://www.ximalaya.com/album/299146.xml" htmlUrl="http://www.ximalaya.com"/>
+      <outline text="看理想电台" title="看理想电台" type="rss" xmlUrl="https://getpodcast.xyz/data/ximalaya/12608947.xml" htmlUrl="https://www.ximalaya.com/album/12608947/"/>
+      <outline text="电影天堂" title="电影天堂" type="rss" xmlUrl="https://rss.zwant.win/dytt" htmlUrl="http://www.dytt8.net/"/>
+      <outline text="疯投圈" title="疯投圈" type="rss" xmlUrl="https://crazy.capital/feed" htmlUrl="https://crazy.capital/"/>
+      <outline text="每天10分钟—快速建立社交自信" title="每天10分钟—快速建立社交自信" type="rss" xmlUrl="https://getpodcast.xyz/data/ximalaya/15041104.xml" htmlUrl="undefined"/>
+      <outline text="字谈字畅" title="字谈字畅" type="rss" xmlUrl="https://thetype.com/feed/typechat/" htmlUrl="https://www.thetype.com/typechat/"/>
+      <outline text="跟宇宙结婚" title="跟宇宙结婚" type="rss" xmlUrl="http://rss.lizhi.fm/rss/1307862.xml" htmlUrl="http://www.lizhi.fm/"/>
+      <outline text="跑题大会" title="跑题大会" type="rss" xmlUrl="https://getpodcast.xyz/data/ximalaya/14641355.xml" htmlUrl="https://www.ximalaya.com/album/14641355/"/>
+      <outline text="文化土豆 Culture Potato" title="文化土豆 Culture Potato" type="rss" xmlUrl="http://www.spreaker.com/show/2571819/episodes/feed" htmlUrl="http://www.spreaker.com/show/culturepotato"/>
+      <outline text="博物志" title="博物志" type="rss" xmlUrl="https://museelogue.fireside.fm/rss" htmlUrl="https://museelogue.fireside.fm/"/>
+      <outline text="硬影像" title="硬影像" type="rss" xmlUrl="http://hardimage.pro/rss" htmlUrl="http://hardimage.pro/"/>
+      <outline text="声东击西" title="声东击西" type="rss" xmlUrl="https://shengdongjixi.fireside.fm/rss" htmlUrl="https://shengdongjixi.fireside.fm/"/>
+      <outline text="迟早更新" title="迟早更新" type="rss" xmlUrl="http://rss.lizhi.fm/rss/1728291.xml" htmlUrl="http://www.lizhi.fm/"/>
+      <outline text="Anyway.FM × 设计杂谈" title="Anyway.FM × 设计杂谈" type="rss" xmlUrl="https://anyway.fm/rss.xml" htmlUrl="http://anyway.fm/"/>
+      <outline text="大内密谈" title="大内密谈" type="rss" xmlUrl="http://rss.lizhi.fm/rss/14275.xml" htmlUrl="http://www.lizhi.fm/"/>
+    </outline>    
+  </body>
+</opml>

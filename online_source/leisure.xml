@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>  
+    <outline text="娱乐" title="娱乐">
+      <outline text="中文热门游戏折扣合集-游戏打折情报" title="中文热门游戏折扣合集-游戏打折情报" type="rss" xmlUrl="https://rss.zwant.win/yxdzqb/hot_chinese" htmlUrl="https://www.yxdzqb.com/index_1c.html"/>
+      <outline text="Epic 游戏限免" title="Epic 游戏限免" type="rss" xmlUrl="https://rss.zwant.win/epicgames/freegames" htmlUrl="https://www.epicgames.com/store/zh-CN/"/>
+      <outline text="小黑盒PC游戏折扣" title="小黑盒PC游戏折扣" type="rss" xmlUrl="https://rss.zwant.win/xiaoheihe/discount" htmlUrl="https://xiaoheihe.cn/games/index"/>
+      <outline text="VPS大学" title="VPS大学" type="rss" xmlUrl="http://www.vpsdx.com/feed" htmlUrl="http://www.vpsdx.com/"/>
+      <outline text="如有乐享" title="如有乐享" type="rss" xmlUrl="http://51.ruyo.net/feed/" htmlUrl="http://51.ruyo.net/"/>
+      <outline text="厘米天空" title="厘米天空" type="rss" xmlUrl="https://www.cmsky.com/feed/" htmlUrl="https://www.cmsky.com/"/>
+      <outline text="反斗软件 » 反斗软件" title="反斗软件 » 反斗软件" type="rss" xmlUrl="http://www.apprcn.com/feed" htmlUrl="http://www.apprcn.com/"/>
+      <outline text="免費資源網路社群" title="免費資源網路社群" type="rss" xmlUrl="https://free.com.tw/feed/" htmlUrl="http://free.com.tw/"/>
+      <outline text="Rat's Blog" title="Rat's Blog" type="rss" xmlUrl="https://www.moerats.com/feed/" htmlUrl="https://www.moerats.com/"/>
+      <outline text="VPS大玩家" title="VPS大玩家" type="rss" xmlUrl="https://www.vpsdawanjia.com/feed" htmlUrl="https://www.vpsdawanjia.com/"/>
+      <outline text="闲吧资源站" title="闲吧资源站" type="rss" xmlUrl="https://www.xianba.net/feed" htmlUrl="https://www.xianba.net/"/>
+      <outline text="小众软件" title="小众软件" type="rss" xmlUrl="http://feed.appinn.com/" htmlUrl="http://www.appinn.com/"/>
+      <outline text="挖站否-挖掘建站的乐趣" title="挖站否-挖掘建站的乐趣" type="rss" xmlUrl="https://wzfou.com/feed/" htmlUrl="https://wzfou.com/"/>
+      <outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="http://feed.iplaysoft.com/" htmlUrl="http://www.iplaysoft.com/"/>
+    </outline>
+  </body>
+</opml>

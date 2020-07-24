@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="资讯" title="资讯">
+      <outline text="观止" title="观止" type="rss" xmlUrl="https://rss.zwant.win/guanzhi" htmlUrl="https://meiriyiwen.com/"/>
+      <outline text="龙空 推书试读" title="龙空 推书试读" type="rss" xmlUrl="https://rss.zwant.win/lkong/forum/60" htmlUrl="http://lkong.cn/forum/60"/>
+      <outline text="中国地震局震情速递" title="中国地震局震情速递" type="rss" xmlUrl="https://rss.zwant.win/earthquake" htmlUrl="https://www.cea.gov.cn/cea/xwzx/zqsd/index.html"/>
+      <outline text="电影天堂" title="电影天堂" type="rss" xmlUrl="https://rss.zwant.win/dytt" htmlUrl="http://www.dytt8.net/"/>
+      <outline text="Photo of the Day" title="Photo of the Day" type="rss" xmlUrl="https://rss.zwant.win/natgeo/dailyphoto" htmlUrl="https://www.nationalgeographic.com/photography/photo-of-the-day/"/>
+      <outline text="Bing每日壁纸" title="Bing每日壁纸" type="rss" xmlUrl="https://rss.zwant.win/bing" htmlUrl="https://cn.bing.com/"/>
+      <outline text="Readhub - 热门话题" title="Readhub - 热门话题" type="rss" xmlUrl="https://rss.zwant.win/readhub/category/topic" htmlUrl="https://readhub.cn/topics"/>
+      <outline text="精读-ZAKER精读新闻" title="精读-ZAKER精读新闻" type="rss" xmlUrl="https://rss.zwant.win/zaker/focusread" htmlUrl="http://www.myzaker.com/?pos=selected_article"/>
+      <outline text="抽屉新热榜" title="抽屉新热榜" type="rss" xmlUrl="https://rss.zwant.win/chouti/hot" htmlUrl="https://m.chouti.com/all/hot"/>
+      <outline text="果壳网 科学人" title="果壳网 科学人" type="rss" xmlUrl="https://rss.zwant.win/guokr/scientific" htmlUrl="https://www.guokr.com/scientific"/>
+      <outline text="虎嗅网 - 首页资讯" title="虎嗅网 - 首页资讯" type="rss" xmlUrl="https://rss.zwant.win/huxiu/article" htmlUrl="https://www.huxiu.com/article"/>
+      <outline text="7x24小时快讯" title="7x24小时快讯" type="rss" xmlUrl="https://rss.zwant.win/fx678/kx" htmlUrl="https://kx.fx678.com/"/>
+      <outline text="路由器交流" title="路由器交流" type="rss" xmlUrl="https://rss.zwant.win/acwifi" htmlUrl="https://www.acwifi.net/"/>
+      <outline text="极客公园-GeekPark" title="极客公园-GeekPark" type="rss" xmlUrl="http://www.geekpark.net/rss" htmlUrl="http://www.geekpark.net/"/>
+      <outline text="少数派 - 热门文章" title="少数派 - 热门文章" type="rss" xmlUrl="https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928" htmlUrl="https://sspai.com/tag/%E7%83%AD%E9%97%A8%E6%96%87%E7%AB%A0"/>
+      <outline text="MIT科技评论" title="MIT科技评论" type="rss" xmlUrl="https://rss.zwant.win/mittrchina/article" htmlUrl="http://www.mittrchina.com/"/>
+      <outline text="酷安图文" title="酷安图文" type="rss" xmlUrl="https://rss.zwant.win/coolapk/tuwen" htmlUrl="https://www.coolapk.com/"/>
+    </outline>  
+  </body>
+</opml>
