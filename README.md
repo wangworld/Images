@@ -4,9 +4,9 @@ GitHub images storage
 ## url rule
 
 ```txt
-https://raw.githubusercontent.com/username
+https://raw.githubusercontent.com/wangworld/images/images/
 ==>
-https://cdn.jsdelivr.net/gh/username
+https://cdn.jsdelivr.net/gh/wangworld/images@images/
 ```
 
 ## dir rule
